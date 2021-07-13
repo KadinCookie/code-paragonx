@@ -2,8 +2,8 @@
 # Welcome to [my page!](https://github.com/Inf3xt)
 <img align="right" src="https://komarev.com/ghpvc/?username=code-paragonx&style=flat&label=Profile+Views&color=181717">
 
-- 🔭 I’m currently working on ParagonZ
-- 🌱 I’m currently learning Javascript and Python
+- 🔭 I’m currently working on a bot called StaTube that displays YouTube Stats
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: On discord: ParagonX#4152 or [my discord](https://discord.gg/Rf2sBBvChd)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Developer of 1 nearly verified bot called [Pog Memer](https://dsc.gg/pogmemer)
