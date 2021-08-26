@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a bot called StaTube that displays YouTube Stats
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me: On discord: ParagonX#4152 or [my discord](https://discord.gg/Rf2sBBvChd)
+- 📫 How to reach me: On discord: ! ParagonX#4152 or [my discord](https://discord.gg/gjGznZEfwV)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Developer of 1 nearly verified bot called [Pog Memer](https://dsc.gg/pogmemer)
 
