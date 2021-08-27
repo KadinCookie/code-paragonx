@@ -2,7 +2,7 @@
 # Welcome to [my page!](https://github.com/Code-ParagonX)
 <img align="right" src="https://komarev.com/ghpvc/?username=code-paragonx&style=flat&label=Profile+Views&color=181717">
 
-- 🔭 I’m currently working on a bot called StaTube that displays YouTube Stats
+- 🔭 I’m currently working on a bot called StatTube that displays YouTube Stats
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: On discord: ! ParagonX#4152 or [my discord](https://discord.gg/gjGznZEfwV)
 - 😄 Pronouns: He/him
