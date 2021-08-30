@@ -18,6 +18,6 @@ Enjoy my github repos ig...
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-paragonx&count_private=false&show_icons=true&theme=tokyonight)
 
 # some of my projects: 🔨
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-paragonx&repo=kahoot-kevin&theme=dark&)](https://github.com/code-paragonx/kahoot-kevin)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-paragonx&repo=kahoot-kevin&theme=dark&)](https://github.com/Code-ParagonX/kahoot-kevin)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-paragonx&repo=utilbot&theme=dark&)](https://github.com/code-paragonx/utilbot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=code-paragonx&repo=discord.py-bot-template&theme=dark&)](https://github.com/Code-ParagonX/discord.py-bot-template)
