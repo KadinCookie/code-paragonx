@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 # Welcome to [my page!](https://github.com/Code-ParagonX)
-<img align="right" src="https://komarev.com/ghpvc/?username=code-paragonx&style=flat&label=Profile+Views&color=181717">
+![](https://komarev.com/ghpvc/?username=code-paragonx)
 
 - 🔭 I’m currently working on a bot called StatTube that displays YouTube Stats
 - 🌱 I’m currently learning Javascript
